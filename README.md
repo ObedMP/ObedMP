@@ -1,4 +1,4 @@
-###	:wave:
+###	
 # ¡Hola! 👋 Soy Obed Menendez
 
 Soy un estudiante de Ingeniería en Ciencias de la Computación apasionado por el mundo tecnológico, actualmente me encuentro especializandome en Desarrollo de bases de datos e inteligencia de negocio impartido por Microsoft , asi mismo me estoy especializando en el lenguaje Java y otras tecnologias mas.
