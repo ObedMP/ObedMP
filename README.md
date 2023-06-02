@@ -3,6 +3,11 @@
 
 Soy un estudiante de Ingeniería en Ciencias de la Computación apasionado por el mundo tecnológico, actualmente me encuentro especializandome en Desarrollo de bases de datos e inteligencia de negocio impartido por Microsoft , asi mismo me estoy especializando en el lenguaje Java y otras tecnologias mas.
 
+## Estoy
+- 🔭 I’m currently working on [CarritoCompras](https://github.com/ObedMP/CarritoCompras.git)
+
+- 🌱 I’m currently learning **Estudiando en programa [One-Oracle Next Education](https://www.oracle.com/ar/education/oracle-next-education/)**
+
 ## Sobre mí
 
 - 💻 Actualmente estoy estudiando Desarrollo BD en SqlServer , Oracle , Desarrollo en Java
