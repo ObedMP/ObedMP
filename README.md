@@ -6,7 +6,7 @@ Soy un estudiante de Ingeniería en Ciencias de la Computación apasionado por e
 ## Estoy
 - 🔭 I’m currently working on [CarritoCompras](https://github.com/ObedMP/CarritoCompras.git)
 
-- 🌱 I’m currently learning **Estudiando en programa [One-Oracle Next Education](https://www.oracle.com/ar/education/oracle-next-education/)**
+- 🌱 I’m currently learning  [One-Oracle Next Education](https://www.oracle.com/ar/education/oracle-next-education/)
 
 ## Sobre mí
 
